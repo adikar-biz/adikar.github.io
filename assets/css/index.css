@@ -28,3 +28,8 @@ body {
 .subtext {
     font-size: 1.3em;
 }
+
+.social-media-icons a {
+    margin-left: 5px;
+    margin-right: 5px;
+}
