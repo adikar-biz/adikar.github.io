@@ -1673,6 +1673,7 @@ ol.default li {
     /* Nav */
     #nav>ul {
         margin: 0;
+        font-weight: 700;
     }
     #nav>ul>li {
         display: inline-block;
