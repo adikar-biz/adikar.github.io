@@ -1460,11 +1460,11 @@ ol.default li {
 
 #banner header {
     background-color: #252122;
-    background-color: rgba(34, 30, 31, 0.98);
+    background-color: rgba(34, 30, 31, 0.7);
 }
 
 #banner header h2 {
-    color: #fff;
+    color: #ffffff;
     font-weight: 700;
 }
 
