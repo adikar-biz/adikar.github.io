@@ -1645,7 +1645,7 @@ ol.default li {
     }
     /* Wrappers */
     #header-wrapper {
-        padding: 1.5em 0 1.5em 0;
+        padding: 1.5em 0 0.75em 0;
     }
     #main-wrapper {
         padding: 4em 0 4em 0;
