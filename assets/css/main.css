@@ -1094,6 +1094,10 @@ header.major h2 {
     width: auto;
 }
 
+.service-box {
+    border: solid 1px #ccc;
+}
+
 
 /* Button */
 
